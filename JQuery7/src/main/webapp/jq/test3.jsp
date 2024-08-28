@@ -69,7 +69,7 @@
 				return (idx+1)*100;
 			},
 			"height":100,
-			"border"5
+			"border":5
 		});
 		
 		
